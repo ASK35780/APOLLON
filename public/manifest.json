@@ -1,0 +1,11 @@
+{
+  "name": "Apollon",
+  "short_name": "Apollon",
+  "description": "La musique, en mouvement.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101018",
+  "theme_color": "#15161c",
+  "orientation": "portrait",
+  "icons": []
+}

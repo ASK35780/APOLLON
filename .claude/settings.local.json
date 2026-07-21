@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(node -v)",
+      "PowerShell(npm -v)",
+      "Bash(npm -v)",
+      "mcp__162d7e31-86b8-448a-aba5-3dd376e5a97a__apply_migration",
+      "mcp__162d7e31-86b8-448a-aba5-3dd376e5a97a__execute_sql",
+      "mcp__162d7e31-86b8-448a-aba5-3dd376e5a97a__list_tables",
+      "mcp__162d7e31-86b8-448a-aba5-3dd376e5a97a__get_publishable_keys",
+      "mcp__162d7e31-86b8-448a-aba5-3dd376e5a97a__get_advisors",
+      "mcp__162d7e31-86b8-448a-aba5-3dd376e5a97a__get_project_url",
+      "Bash(sort -t: -k1,1 -k2,2n)"
+    ]
+  }
+}
