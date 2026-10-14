@@ -121,3 +121,6 @@ supabase/
   lié, régénère-le avec `supabase gen types typescript --linked` pour rester synchronisé.
 - Les URLs audio du seed (`https://example-cdn.test/...`) sont des placeholders — branche un
   vrai stockage (Supabase Storage, S3, Mux...) avant la mise en prod.
+- `public/dragon-foudre/index.html` est une page autonome (Three.js chargé depuis jsDelivr, hors
+  bundle Next.js) : le Dragon de Foudre en 3D low-poly, avec un mode « Modèle brut » (sculpture
+  grise) et un mode « Couleurs ». Elle est servie telle quelle sur `/dragon-foudre/index.html`.
